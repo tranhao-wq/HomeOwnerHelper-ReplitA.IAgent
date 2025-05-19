@@ -16,10 +16,10 @@ ________________________________________
 •	🌟 Favorites and User Accounts (future feature)
 ________________________________________
 ### 🧱 Tech Stack
-![Uploading image.png…]()
- ________________________________________
+![image](https://github.com/user-attachments/assets/4f96c0c7-10ef-43fa-b232-6003ff640604)
+________________________________________
 ### 🗂️ Project Structure
-![Uploading image.png…]()________________________________________
+![image](https://github.com/user-attachments/assets/be978c73-b9f2-4a45-abb0-7f9167178eef)_______________________________________
 ### 🛠️ Key Improvements Made
 •	✅ Replaced in-memory storage with PostgreSQL database
 •	✅ Created database schema for workshops, categories, hosts, and testimonials
