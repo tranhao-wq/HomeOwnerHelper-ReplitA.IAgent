@@ -16,7 +16,7 @@ ________________________________________
 •	🌟 Favorites and User Accounts (future feature)
 ________________________________________
 ### 🧱 Tech Stack
-![image](https://github.com/user-attachments/assets/a29b5b97-3ec3-4443-b20a-2e1c1f922dad)
+![Uploading image.png…]()
  ________________________________________
 ### 🗂️ Project Structure
 ![Uploading image.png…]()________________________________________
