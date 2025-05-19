@@ -2,17 +2,28 @@
 # 🏠 HomeSkills – Find Local Workshops for New Homeowners
 HomeSkills is a mobile-first web application designed to help new homeowners discover local home improvement classes and workshops with real-time availability. From plumbing basics to DIY furniture building, this platform connects users with hands-on learning opportunities in their area.
 _______________________________________________
-### 🚀 Features
+### 🚀 Features'
+
 •	✅ Mobile-First Responsive Design – Optimized UI for all devices
+
 •	📅 Real-Time Workshop Availability – See open spots instantly
+
 •	🔍 Search and Filter – Easily find classes by category or keyword
+
 •	📚 Workshop Details Pages – Learn more and book your spot
+
 •	💬 Testimonials – Hear from past attendees
+
 •	📌 Category Filters – Browse workshops by topics like Electrical, Gardening, DIY, and more
+
 •	📍 Location-Based Discovery (planned)
+
 •	📩 Contact Form – Submit inquiries directly
+
 •	📬 Email Alerts (planned) – Get notified when new spots open
+
 •	💳 Payment Integration (future feature)
+
 •	🌟 Favorites and User Accounts (future feature)
 _______________________________________________
 ### 🧱 Tech Stack
@@ -22,17 +33,27 @@ _______________________________________________
 ![image](https://github.com/user-attachments/assets/be978c73-b9f2-4a45-abb0-7f9167178eef)
 _______________________________________________
 ### 🛠️ Key Improvements Made
+
 •	✅ Replaced in-memory storage with PostgreSQL database
+
 •	✅ Created database schema for workshops, categories, hosts, and testimonials
+
 •	✅ Built seed script to populate initial data
+
 •	✅ Fixed DOM nesting warnings in CategoryFilter component
+
 •	✅ Improved error handling in DB operations
 _______________________________________________
 ### 📌 Next Steps
+
 •	Add user registration & login
+
 •	Implement booking and payment flow
+
 •	Add map integration for workshop locations
+
 •	Enable user reviews and ratings
+
 •	Add calendar and date filtering
 _______________________________________________
 ### 📸 Screenshots
