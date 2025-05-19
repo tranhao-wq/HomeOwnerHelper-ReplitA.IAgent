@@ -1,7 +1,7 @@
 # HomeOwnerHelper-ReplitA.IAgent
 # 🏠 HomeSkills – Find Local Workshops for New Homeowners
 HomeSkills is a mobile-first web application designed to help new homeowners discover local home improvement classes and workshops with real-time availability. From plumbing basics to DIY furniture building, this platform connects users with hands-on learning opportunities in their area.
-________________________________________
+_______________________________________________
 ### 🚀 Features
 •	✅ Mobile-First Responsive Design – Optimized UI for all devices
 •	📅 Real-Time Workshop Availability – See open spots instantly
@@ -14,26 +14,27 @@ ________________________________________
 •	📬 Email Alerts (planned) – Get notified when new spots open
 •	💳 Payment Integration (future feature)
 •	🌟 Favorites and User Accounts (future feature)
-________________________________________
+_______________________________________________
 ### 🧱 Tech Stack
 ![image](https://github.com/user-attachments/assets/4f96c0c7-10ef-43fa-b232-6003ff640604)
-________________________________________
+_______________________________________________
 ### 🗂️ Project Structure
-![image](https://github.com/user-attachments/assets/be978c73-b9f2-4a45-abb0-7f9167178eef)_______________________________________
+![image](https://github.com/user-attachments/assets/be978c73-b9f2-4a45-abb0-7f9167178eef)
+_______________________________________________
 ### 🛠️ Key Improvements Made
 •	✅ Replaced in-memory storage with PostgreSQL database
 •	✅ Created database schema for workshops, categories, hosts, and testimonials
 •	✅ Built seed script to populate initial data
 •	✅ Fixed DOM nesting warnings in CategoryFilter component
 •	✅ Improved error handling in DB operations
-________________________________________
+_______________________________________________
 ### 📌 Next Steps
 •	Add user registration & login
 •	Implement booking and payment flow
 •	Add map integration for workshop locations
 •	Enable user reviews and ratings
 •	Add calendar and date filtering
-________________________________________
+_______________________________________________
 ### 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/0b92b8aa-31b9-41b4-9796-281c61cd292e)
 ![image](https://github.com/user-attachments/assets/4e89af25-03c0-4988-bc4a-612a420f6394)
