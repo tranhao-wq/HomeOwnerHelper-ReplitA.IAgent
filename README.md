@@ -19,9 +19,7 @@ ________________________________________
 ![image](https://github.com/user-attachments/assets/a29b5b97-3ec3-4443-b20a-2e1c1f922dad)
  ________________________________________
 ### 🗂️ Project Structure
-![image](https://github.com/user-attachments/assets/d2c4a8f8-6290-4a86-9f3d-a749a499c5f9)
-![image](https://github.com/user-attachments/assets/894bd3cf-8e41-4acd-b32c-705fd59ae08c)
-________________________________________
+![Uploading image.png…]()________________________________________
 ### 🛠️ Key Improvements Made
 •	✅ Replaced in-memory storage with PostgreSQL database
 •	✅ Created database schema for workshops, categories, hosts, and testimonials
