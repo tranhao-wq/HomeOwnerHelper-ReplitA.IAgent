@@ -25,6 +25,13 @@ _______________________________________________
 •	💳 Payment Integration (future feature)
 
 •	🌟 Favorites and User Accounts (future feature)
+
+---
+
+# Diagram
+![image](https://github.com/user-attachments/assets/62539ebd-3b16-45d6-ba11-070191427c8d)
+![image](https://github.com/user-attachments/assets/8b4a6d73-b297-4216-9199-3043aaf901f2)
+
 _______________________________________________
 ### 🧱 Tech Stack
 ![image](https://github.com/user-attachments/assets/4f96c0c7-10ef-43fa-b232-6003ff640604)
